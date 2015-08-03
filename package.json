@@ -19,6 +19,7 @@
     "react": "^0.13.3",
     "react-hot-loader": "^1.2.8",
     "react-native-webpack-server": "git://github.com/jeffreywescott/react-native-webpack-server.git#fix-for-react-native-0.8-rc.2",
+    "webpack": "^1.10.3",
     "webpack-dev-server": "^1.10"
   },
   "dependencies": {
